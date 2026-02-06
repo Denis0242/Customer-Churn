@@ -7,35 +7,7 @@ Clone the repository using the link: https://github.com/Desmondonam/churn_predic
 
 ``` pip install -r requirements.txt ```
 
-Customer-Churn/
-├── images/
-├── notebooks/
-├── data/
-├── README.md
 
-mkdir images
-
-Churn Distribution plot
-import matplotlib.pyplot as plt
-import seaborn as sns
-sns.countplot(x='Churn', data=df)
-plt.title('Customer Churn Distribution')
-plt.savefig('../images/churn_distribution.png', bbox_inches='tight')
-plt.show()
-
-Churn by Contract type 
-sns.barplot(x='Contract', y='Churn', data=df)
-plt.title('Churn by Contract Type')
-plt.savefig('../images/churn_by_contract.png', bbox_inches='tight')
-plt.show()
-
-Important Features
-importances = model.feature_importances_
-plt.figure(figsize=(8,5))
-sns.barplot(x=importances, y=feature_names)
-plt.title('Feature Importance for Churn Prediction')
-plt.savefig('../images/feature_importance.png', bbox_inches='tight')
-plt.show()
 
 ## 📊 Key Visualizations
 
@@ -52,3 +24,4 @@ plt.show()
 git add images/
 git commit -m "Add churn analysis visualizations"
 git push
+
