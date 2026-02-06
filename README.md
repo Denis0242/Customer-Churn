@@ -89,6 +89,41 @@ Matplotlib, Seaborn – visualization
 Scikit-learn – churn modeling
 Jupyter Notebook
 
+🧪 Experiment Design: Targeted Retention for High-Risk Customers
+📌 Product Hypothesis:
+Customers identified as high churn risk will respond better to targeted retention actions than generic messaging.
+
+🎯 Experiment Goal:
+Increase retention among high-risk customers while optimizing retention effort efficiency.
+
+👥 Experiment Setup:
+Population: Customers predicted to be high churn risk
+
+Control Group: No intervention
+Treatment Group: Targeted retention action (personalized message, incentive, or feature recommendation)
+
+📊 Metrics:
+Primary Metric
+Retention rate among high-risk users
+
+Secondary Metrics:
+Engagement lift
+Feature usage changes
+
+Guardrail Metrics:
+Opt-out rate
+Negative feedback
+Cost per retained user
+
+✅ Success Criteria
+The experiment is successful if:
+Retention improves significantly in the treatment group
+Retention cost is lower than broad-based campaigns
+
+🧠 Decision Logic
+If effective, integrate churn predictions into retention workflows.
+If ineffective, refine targeting criteria or retention strategy.
+
 ▶️ How to Run the Analysis
 git clone https://github.com/Denis0242/Customer-Churn.git
 cd Customer-Churn
@@ -101,6 +136,7 @@ Also don't forget to
 ``` pip install -r requirements.txt ```
 
 👤 Author
-Denis
+Denis :
 Product Data Science / Data Analytics
 Focused on churn, retention, user behavior, and data-informed product decisions
+
