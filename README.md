@@ -10,6 +10,7 @@
 
 # 📉 Customer Churn — Product Data Science Analysis
 🔍 **Product Overview:**
+
 This project applies Product Data Science principles to understand, measure, and reduce customer churn.
 Rather than focusing only on prediction accuracy, the goal is to uncover why users churn, which behaviors signal risk early,
 and how product teams can intervene effectively.
@@ -153,6 +154,7 @@ These recommendations align with product-led growth and retention strategy.
 **Denis Agyapong:**
 **Product Data Science / Data Analytics**
 - **Focused on churn, retention, user behavior, and data-informed product decisions**
+
 
 
 
