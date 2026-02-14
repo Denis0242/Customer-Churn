@@ -115,6 +115,7 @@ These recommendations align with product-led growth and retention strategy.
 
 **Control Group: No intervention**
 **Treatment Group: Targeted retention action (personalized message, incentive, or feature recommendation)**
+
 ---
 
 #### 📊 Metrics:
@@ -153,8 +154,10 @@ These recommendations align with product-led growth and retention strategy.
 
 ### 👤 Author
 **Denis Agyapong:**
+
 **Product Data Science / Data Analytics**
 - **Focused on churn, retention, user behavior, and data-informed product decisions**
+
 
 
 
