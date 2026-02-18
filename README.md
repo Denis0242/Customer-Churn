@@ -154,21 +154,29 @@ These recommendations align with product-led growth and retention strategy.
 
 **To train the models**
 - Run the application by running the train script to train the models and save them
- - python train.py
+  
+-- python train.py
 
 **For the EDA**
 - Run the app2 file to view the EDA for the customers to understand the customers data
-- streamlit run app2.py
+  
+-- streamlit run app2.py
 
 **For the prediction**
-- To run the predictions model and make prediction in the streamlit application, run the app.py file
-- streamlit run app.py
+- To run the predictions model and make prediction in the streamlit application, run the app.py fil
+
+-- streamlit run app.py
+
+**For Deployment run**
+- 
+  
 ---
 ### 👤 Author
 **Denis Agyapong:**
 
 **Product Data Science / Data Analytics**
 - **Focused on churn, retention, user behavior, and data-informed product decisions**
+
 
 
 
