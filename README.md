@@ -47,10 +47,10 @@ This project approaches churn not just as a classification problem — but as a 
 
 # 📊 Business Context Simulation
 **Assume:**
-10,000 active customers
-26% churn rate
-$70 average monthly revenue
-A 5% reduction in churn leads to significant annual revenue preservation.
+- 10,000 active customers
+- 26% churn rate
+- $70 average monthly revenue
+- A 5% reduction in churn leads to significant annual revenue preservation.
 
 ---
 
@@ -218,3 +218,4 @@ Customer-Churn/
 **Denis Agyapong**
 **Product Data Scientist | Data Analyst**
 **Oakland, CA**
+
