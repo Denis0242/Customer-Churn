@@ -1,7 +1,7 @@
 
 # 📊 Customer Churn Prediction | Product Data Science Case Study
 
-***Product Data Science | Retention Analytics | Machine Learning | Experimentation Strategy | Revenue Optimization**
+**Product Data Science | Retention Analytics | Machine Learning | Experimentation Strategy | Revenue Optimization**
 
 ---
 
@@ -57,7 +57,6 @@ This project approaches churn not just as a classification problem — but as a 
 **This project provides predictive modeling to enable proactive intervention before churn occurs.**
 
 # 🔍 Exploratory Product Insights
-
 **Key findings from EDA:**
 - Month-to-month contracts have the highest churn probability
 - Short-tenure customers churn within the early lifecycle stage
@@ -218,4 +217,5 @@ Customer-Churn/
 **Denis Agyapong**
 **Product Data Scientist | Data Analyst**
 **Oakland, CA**
+
 
