@@ -148,7 +148,9 @@ This project approaches churn not just as a classification problem — but as a 
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
+
+```
 Customer-Churn/
 │
 ├── data/
@@ -157,8 +159,7 @@ Customer-Churn/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
----
+```
 
 # 📊 Business Impact Summary
 - If implemented in production, this system enables:
@@ -217,6 +218,7 @@ Customer-Churn/
 **Denis Agyapong**
 **Product Data Scientist | Data Analyst**
 **Oakland, CA**
+
 
 
 
